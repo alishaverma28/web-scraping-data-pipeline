@@ -17,12 +17,14 @@ This project demonstrates a simple end-to-end data pipeline that involves extrac
 - Uploaded dataset to AWS S3 for scalable cloud storage  
 
 ## 📂 Project Structure
+```bash
+
 web_scraping_project/
 │
 ├── scraper.py
 ├── quotes_cleaned.csv
 ├── README.md
-
+```
 ## ▶️ How to Run
 
 ### 1. Install dependencies
